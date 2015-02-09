@@ -11,9 +11,9 @@ class subjectNetwork:
 
 	#dataPath = 'path/to/marc/files/'
 
-	dataPath = '/Users/matt/Dropbox/git/code4lib2015-preconference/data/ead/'
-	dataPath = '/Users/matt/Dropbox/git/archives-grail/ead/'
+	dataPath = '../data/ead'
 
+	
 	extention = '.xml'
 	xmlFiles = []
 	exclude = set(string.punctuation)
