@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.1" lang="en"
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:schema="http://schema.org/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+	xmlns:bibo="http://purl.org/ontology/bibo/"
+	xmlns:arch="http://purl.org/archival/vocab/arch#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<head>
+  <title>archives.nypl.org -- Thomas Addis Emmet collection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="/assets/application-75587ec3feb3e4b67b447220b03709e0.css" media="all" rel="stylesheet" type="text/css" />
+  <script src="/assets/application-134daf0b49e1b51cfff4057266843d26.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="N0zznTDOCdTb+gEUfieaCGrEMvdS5ytVHr84MrZtaMQ=" name="csrf-token" />
+  
+  <script type="text/javascript">
+      var collection_structure = {"id":1,"type":"Collection","title":"Thomas Addis Emmet collection","total_children":28,"total_components":5253,"components":[{"id":1,"title":"The Albany Congress of 1754","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"274942","identifier_type":"local_mss","collection_id":1,"parent_id":null,"sib_seq":1,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:52:55Z","updated_at":"2014-01-13T20:41:15Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"274942"}],"unittitle":[{"value":"The Albany Congress of 1754"}],"total_children":56,"total_components":56},{"id":58,"title":"The Stamp Act Congress of 1765","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"274999","identifier_type":"local_mss","collection_id":1,"parent_id":null,"sib_seq":2,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:52:59Z","updated_at":"2014-01-13T20:41:18Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"274999"}],"unittitle":[{"value":"The Stamp Act Congress of 1765"}],"total_children":62,"total_components":62},{"id":121,"title":"The Continental Congress of 1774","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275062","identifier_type":"local_mss","collection_id":1,"parent_id":null,"sib_seq":3,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:03Z","updated_at":"2014-01-13T20:41:21Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275062"}],"unittitle":[{"value":"The Continental Congress of 1774"}],"total_children":79,"total_components":79},{"id":201,"title":"The Members of the Continental Congress, 1774-1779","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275143","identifier_type":"local_mss","collection_id":1,"parent_id":null,"sib_seq":4,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":2,"org_unit_id":1,"created_at":"2013-01-08T20:53:09Z","updated_at":"2014-01-13T20:41:24Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275143"}],"unittitle":[{"value":"The Members of the Continental Congress, 1774-1779"}],"total_children":5,"total_components":451,"components":[{"id":202,"title":"New Hampshire, Massachusetts, Rhode Island, Connecticut","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275142","identifier_type":"local_mss","collection_id":1,"parent_id":201,"sib_seq":1,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":201,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:09Z","updated_at":"2014-01-13T20:41:25Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275142"}],"unittitle":[{"value":"New Hampshire, Massachusetts, Rhode Island, Connecticut"}],"total_children":110,"total_components":110},{"id":313,"title":"New York and New Jersey","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275254","identifier_type":null,"collection_id":1,"parent_id":201,"sib_seq":2,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":201,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:18Z","updated_at":"2014-01-13T20:41:31Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275254"}],"unittitle":[{"value":"New York and New Jersey"}],"total_children":86,"total_components":86},{"id":400,"title":"Pennsylvania and Delaware","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275341","identifier_type":null,"collection_id":1,"parent_id":201,"sib_seq":3,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":201,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:25Z","updated_at":"2014-01-13T20:41:35Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275341"}],"unittitle":[{"value":"Pennsylvania and Delaware"}],"total_children":83,"total_components":83},{"id":484,"title":"Maryland and Virginia","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275425","identifier_type":null,"collection_id":1,"parent_id":201,"sib_seq":4,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":201,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:32Z","updated_at":"2014-01-13T20:41:38Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275425"}],"unittitle":[{"value":"Maryland and Virginia"}],"total_children":83,"total_components":83},{"id":568,"title":"The Carolinas and Georgia","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275509","identifier_type":null,"collection_id":1,"parent_id":201,"sib_seq":5,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":201,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:38Z","updated_at":"2014-01-13T20:41:42Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275509"}],"unittitle":[{"value":"The Carolinas and Georgia"}],"total_children":84,"total_components":84}]},{"id":653,"title":"The Presidents of Congress, and of the United States","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275594","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":5,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:46Z","updated_at":"2014-01-13T20:41:46Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275594"}],"unittitle":[{"value":"The Presidents of Congress, and of the United States"}],"total_children":51,"total_components":51},{"id":705,"title":"The Declaration of Independence","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275646","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":6,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:50Z","updated_at":"2014-01-13T20:41:49Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275646"}],"unittitle":[{"value":"The Declaration of Independence"}],"total_children":82,"total_components":82},{"id":788,"title":"The Signers to the Declaration of Independence","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275730","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":7,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":2,"org_unit_id":1,"created_at":"2013-01-08T20:53:56Z","updated_at":"2014-01-13T20:41:53Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275730"}],"unittitle":[{"value":"The Signers to the Declaration of Independence"}],"total_children":18,"total_components":690,"components":[{"id":789,"title":"Introduction. Part I","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275729","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":1,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:56Z","updated_at":"2014-01-13T20:41:54Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275729"}],"unittitle":[{"value":"Introduction. Part I"}],"total_children":36,"total_components":36},{"id":826,"title":"Introduction. Part II","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275767","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":2,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:53:59Z","updated_at":"2014-01-13T20:41:56Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275767"}],"unittitle":[{"value":"Introduction. Part II"}],"total_children":22,"total_components":22},{"id":849,"title":"New Hampshire","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275790","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":3,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:00Z","updated_at":"2014-01-13T20:41:57Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275790"}],"unittitle":[{"value":"New Hampshire"}],"total_children":31,"total_components":31},{"id":881,"title":"Masschusetts. Part I","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275822","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":4,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:03Z","updated_at":"2014-01-13T20:41:59Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275822"}],"unittitle":[{"value":"Masschusetts. Part I"}],"total_children":41,"total_components":41},{"id":923,"title":"Masschusetts. Part II","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275864","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":5,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:06Z","updated_at":"2014-01-13T20:42:01Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275864"}],"unittitle":[{"value":"Masschusetts. Part II"}],"total_children":28,"total_components":28},{"id":952,"title":"Rhode Island","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275893","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":6,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:08Z","updated_at":"2014-01-13T20:42:02Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275893"}],"unittitle":[{"value":"Rhode Island"}],"total_children":29,"total_components":29},{"id":982,"title":"Connecticut","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275924","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":7,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:10Z","updated_at":"2014-01-13T20:42:03Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275924"}],"unittitle":[{"value":"Connecticut"}],"total_children":37,"total_components":37},{"id":1020,"title":"New York","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"275962","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":8,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:13Z","updated_at":"2014-01-13T20:42:05Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"275962"}],"unittitle":[{"value":"New York"}],"total_children":49,"total_components":49},{"id":1070,"title":"New Jersey","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276012","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":9,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:17Z","updated_at":"2014-01-13T20:42:08Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276012"}],"unittitle":[{"value":"New Jersey"}],"total_children":39,"total_components":39},{"id":1110,"title":"Pennsylvania. Part I","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276052","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":10,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:21Z","updated_at":"2014-01-13T20:42:09Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276052"}],"unittitle":[{"value":"Pennsylvania. Part I"}],"total_children":45,"total_components":45},{"id":1156,"title":"Pennsylvania. Part II","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276098","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":11,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:24Z","updated_at":"2014-01-13T20:42:11Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276098"}],"unittitle":[{"value":"Pennsylvania. Part II"}],"total_children":49,"total_components":49},{"id":1206,"title":"Pennsylvania. Part III","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276148","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":12,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:28Z","updated_at":"2014-01-13T20:42:14Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276148"}],"unittitle":[{"value":"Pennsylvania. Part III"}],"total_children":28,"total_components":28},{"id":1235,"title":"Delaware","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276177","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":13,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:30Z","updated_at":"2014-01-13T20:42:15Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276177"}],"unittitle":[{"value":"Delaware"}],"total_children":38,"total_components":38},{"id":1274,"title":"Maryland","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276216","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":14,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:33Z","updated_at":"2014-01-13T20:42:17Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276216"}],"unittitle":[{"value":"Maryland"}],"total_children":41,"total_components":41},{"id":1316,"title":"Virginia. Part I","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276258","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":15,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:37Z","updated_at":"2014-01-13T20:42:19Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276258"}],"unittitle":[{"value":"Virginia. Part I"}],"total_children":49,"total_components":49},{"id":1366,"title":"Virginia. Part II","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276309","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":16,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:41Z","updated_at":"2014-01-13T20:42:21Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276309"}],"unittitle":[{"value":"Virginia. Part II"}],"total_children":49,"total_components":49},{"id":1416,"title":"North Carolina","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276359","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":17,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:45Z","updated_at":"2014-01-13T20:42:23Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276359"}],"unittitle":[{"value":"North Carolina"}],"total_children":12,"total_components":12},{"id":1429,"title":"South Carolina and Georgia","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276372","identifier_type":null,"collection_id":1,"parent_id":788,"sib_seq":18,"has_children":true,"level_num":2,"level_text":"subseries","top_component_id":788,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:46Z","updated_at":"2014-01-13T20:42:24Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276372"}],"unittitle":[{"value":"South Carolina and Georgia"}],"total_children":49,"total_components":49}]},{"id":1479,"title":"The Articles of Confederation","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276423","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":8,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:50Z","updated_at":"2014-01-13T20:42:26Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276423"}],"unittitle":[{"value":"The Articles of Confederation"}],"total_children":52,"total_components":52},{"id":1532,"title":"Lossing's Field Book of Revolution","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"276476","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":9,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:54:53Z","updated_at":"2014-01-13T20:42:29Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"276476"}],"unittitle":[{"value":"Lossing's Field Book of Revolution"}],"total_children":1588,"total_components":1588},{"id":3121,"title":"The Siege of Savannah, 1779","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278066","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":10,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:56:55Z","updated_at":"2014-01-13T20:43:43Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278066"}],"unittitle":[{"value":"The Siege of Savannah, 1779"}],"total_children":7,"total_components":7},{"id":3129,"title":"The Siege of Savannah - Lincoln Papers","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278074","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":11,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:56:55Z","updated_at":"2014-01-13T20:43:44Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278074"}],"unittitle":[{"value":"The Siege of Savannah - Lincoln Papers"}],"total_children":78,"total_components":78},{"id":3208,"title":"The Siege of Charleston - Lincoln Papers","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278154","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":12,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:01Z","updated_at":"2014-01-13T20:43:47Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278154"}],"unittitle":[{"value":"The Siege of Charleston - Lincoln Papers"}],"total_children":100,"total_components":100},{"id":3309,"title":"The Generals of the American Revolution","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278255","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":13,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:10Z","updated_at":"2014-01-13T20:43:52Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278255"}],"unittitle":[{"value":"The Generals of the American Revolution"}],"total_children":351,"total_components":351},{"id":3661,"title":"Washington and His Military Family","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278609","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":14,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:37Z","updated_at":"2014-01-13T20:44:08Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278609"}],"unittitle":[{"value":"Washington and His Military Family"}],"total_children":53,"total_components":53},{"id":3715,"title":"The Annapolis Convention","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278663","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":15,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:42Z","updated_at":"2014-01-13T20:44:11Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278663"}],"unittitle":[{"value":"The Annapolis Convention"}],"total_children":51,"total_components":51},{"id":3767,"title":"The Federal Convention","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278716","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":16,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:47Z","updated_at":"2014-01-13T20:44:13Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278716"}],"unittitle":[{"value":"The Federal Convention"}],"total_children":75,"total_components":75},{"id":3843,"title":"The First Federal Administration","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278792","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":17,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:57:54Z","updated_at":"2014-01-13T20:44:17Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278792"}],"unittitle":[{"value":"The First Federal Administration"}],"total_children":112,"total_components":112},{"id":3956,"title":"The Republican Court","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278905","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":18,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:05Z","updated_at":"2014-01-13T20:44:22Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278905"}],"unittitle":[{"value":"The Republican Court"}],"total_children":27,"total_components":27},{"id":3986,"title":"Booth's History of New York","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"278936","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":19,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:07Z","updated_at":"2014-01-13T20:44:24Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"278936"}],"unittitle":[{"value":"Booth's History of New York"}],"total_children":379,"total_components":379},{"id":4365,"title":"Francis' Old New York","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"287292","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":20,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:38Z","updated_at":"2014-01-13T20:44:41Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"287292"}],"unittitle":[{"value":"Francis' Old New York"}],"total_children":57,"total_components":57},{"id":4423,"title":"Duer's Old Yorker","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279374","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":21,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:39Z","updated_at":"2014-01-13T20:44:43Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279374"}],"unittitle":[{"value":"Duer's Old Yorker"}],"total_children":8,"total_components":8},{"id":4432,"title":"Irving's Life of Washington","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279383","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":22,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:40Z","updated_at":"2014-01-13T20:44:43Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279383"}],"unittitle":[{"value":"Irving's Life of Washington"}],"total_children":108,"total_components":108},{"id":4541,"title":"Boundary Line Controversy","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279493","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":23,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:50Z","updated_at":"2014-01-13T20:44:48Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279493"}],"unittitle":[{"value":"Boundary Line Controversy"}],"total_children":42,"total_components":42},{"id":4584,"title":"Howe's Virginia","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279536","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":24,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:58:54Z","updated_at":"2014-01-13T20:44:50Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279536"}],"unittitle":[{"value":"Howe's Virginia"}],"total_children":114,"total_components":114},{"id":4699,"title":"Life of Edward Livingston","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279652","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":25,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:59:01Z","updated_at":"2014-01-13T20:44:56Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279652"}],"unittitle":[{"value":"Life of Edward Livingston"}],"total_children":26,"total_components":26},{"id":4726,"title":"Life of Marion","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279679","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":26,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:59:04Z","updated_at":"2014-01-13T20:44:57Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279679"}],"unittitle":[{"value":"Life of Marion"}],"total_children":4,"total_components":4},{"id":4731,"title":"General Leslie's Letterbook","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279684","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":27,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:59:04Z","updated_at":"2014-01-13T20:44:57Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279684"}],"unittitle":[{"value":"General Leslie's Letterbook"}],"total_children":224,"total_components":224},{"id":4956,"title":"Miscellaneous Manuscripts","origination":null,"date_statement":null,"extent_statement":null,"identifier_value":"279910","identifier_type":null,"collection_id":1,"parent_id":null,"sib_seq":28,"has_children":true,"level_num":1,"level_text":"series","top_component_id":null,"max_depth":1,"org_unit_id":1,"created_at":"2013-01-08T20:59:27Z","updated_at":"2014-01-13T20:45:08Z","resource_type":null,"linear_feet":null,"load_seq":null,"boost_queries":null,"type":"Component","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":null,"unitid":[{"value":"279910"}],"unittitle":[{"value":"Miscellaneous Manuscripts"}],"total_children":298,"total_components":298}]};
+      var collection_component_count = 5253;
+      var collection_response = {"id":1,"title":"Thomas Addis Emmet collection","origination":[{"id":3006,"term":"Emmet, Thomas Addis, 1828-1919","type":"persname","source":"naf","function":"origination","role":"Collector","controlaccess":false,"questionable":false,"value":"Emmet, Thomas Addis, 1828-1919"}],"org_unit_id":1,"date_statement":"1483-1876 [bulk 1700-1800]","extent_statement":"30.83 linear feet; 108 boxes, 21 volumes","linear_feet":30.83,"keydate":"1483","identifier_value":"927","identifier_type":"local_mss","call_number":"MssCol 927","max_depth":3,"series_count":28,"active":true,"created_at":"2013-01-08T20:52:54Z","updated_at":"2014-11-14T14:51:09Z","boost_queries":"[\"emmet\"]","component_layout_id":2,"has_digital":1,"fully_digitized":1,"type":"Collection","org_unit_name":"Manuscripts and Archives Division","org_unit_name_short":"Manuscripts and Archives Division","org_unit_code":"MSS","digital_assets":true,"unitid":[{"value":"MssCol 927","type":"local_call"},{"value":"927","type":"local_mss"}],"unitdate":[{"type":"inclusive","normal":"1483/1876","value":"1483-1876"},{"type":"bulk","normal":"1700/1800","value":"1700-1800"}],"date_inclusive_start":1483,"date_inclusive_end":1876,"dates_index":[1483,1484,1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496,1497,1498,1499,1500,1501,1502,1503,1504,1505,1506,1507,1508,1509,1510,1511,1512,1513,1514,1515,1516,1517,1518,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1529,1530,1531,1532,1533,1534,1535,1536,1537,1538,1539,1540,1541,1542,1543,1544,1545,1546,1547,1548,1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1561,1562,1563,1564,1565,1566,1567,1568,1569,1570,1571,1572,1573,1574,1575,1576,1577,1578,1579,1580,1581,1582,1583,1584,1585,1586,1587,1588,1589,1590,1591,1592,1593,1594,1595,1596,1597,1598,1599,1600,1601,1602,1603,1604,1605,1606,1607,1608,1609,1610,1611,1612,1613,1614,1615,1616,1617,1618,1619,1620,1621,1622,1623,1624,1625,1626,1627,1628,1629,1630,1631,1632,1633,1634,1635,1636,1637,1638,1639,1640,1641,1642,1643,1644,1645,1646,1647,1648,1649,1650,1651,1652,1653,1654,1655,1656,1657,1658,1659,1660,1661,1662,1663,1664,1665,1666,1667,1668,1669,1670,1671,1672,1673,1674,1675,1676,1677,1678,1679,1680,1681,1682,1683,1684,1685,1686,1687,1688,1689,1690,1691,1692,1693,1694,1695,1696,1697,1698,1699,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714,1715,1716,1717,1718,1719,1720,1721,1722,1723,1724,1725,1726,1727,1728,1729,1730,1731,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1750,1751,1752,1753,1754,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1765,1766,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787,1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840,1841,1842,1843,1844,1845,1846,1847,1848,1849,1850,1851,1852,1853,1854,1855,1856,1857,1858,1859,1860,1861,1862,1863,1864,1865,1866,1867,1868,1869,1870,1871,1872,1873,1874,1875,1876],"date_bulk_start":1700,"date_bulk_end":1800,"unittitle":[{"value":"Thomas Addis Emmet collection"}],"physdesc":[{"format":"structured","physdesc_components":[{"name":"extent","value":"30.83 linear feet"},{"name":"extent","value":"108 boxes, 21 volumes"}],"supress_display":true}],"abstract":[{"value":"The portion of the Emmet Collection housed in the Manuscripts and Archives Division consists of approximately 10,800 historical manuscripts relating chiefly to the period prior to, during, and following the American Revolution. The collection contains letters and documents by the signers of the Declaration of Independence as well as nearly every prominent historical figure of the period."}],"prefercite":[{"value":" <p>Thomas Addis Emmet collection, Manuscripts and Archives Division, The New York Public Library</p> "}],"custodhist":[{"value":" <p>The Emmet Collection was assembled over a period of fifty years by Dr. Thomas Addis Emmet, a renowned surgeon and one of the early collectors of American manuscripts of the revolutionary era. His collection of 94 volumes of manuscripts and extra-illustrated books was purchased by John S. Kennedy and presented to The New York Public Library in 1896.</p> "}],"scopecontent":[{"value":" <p>The portion of the Emmet Collection housed in the Manuscripts and Archives Division consists of approximately 10,800 historical manuscripts relating chiefly to the period prior to, during, and following the American Revolution. The collection contains letters and documents by the signers of the Declaration of Independence as well as nearly every prominent historical figure of the period. The manuscripts are arranged in 28 topics, most of them milestones in early American history. Topics include the Albany Congress of 1754, the Stamp Act Congress of 1765, the Continental Congresses, 1774 -1789, the Declaration of Independence, the Articles of Confederation, the Annapolis Convention, the Federal Convention, and the First Federal Administration. The Revolutionary War is well documented in the correspondence and letterbooks of generals and other officers, as well as in orderly books, muster rolls, and returns. Additional material documents the history of New York City. Highlights of the Emmet Collection include Thomas Jefferson's manuscript copy of the Declaration of Independence, an engrossed copy of the Bill of Rights, and manuscript minutes of the Annapolis Convention.</p> "},{"value":"<p class='list-head'>The Thomas Addis Emmet collection is arranged in twenty-eight series:</p>\n<ul class='arrangement series-descriptions'>\n<li><div class='series-title'><a href='/mss/927#c1'>The Albany Congress of 1754</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c58'>The Stamp Act Congress of 1765</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c121'>The Continental Congress of 1774</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c201'>The Members of the Continental Congress, 1774-1779</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c653'>The Presidents of Congress, and of the United States</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c705'>The Declaration of Independence</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c788'>The Signers to the Declaration of Independence</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c1479'>The Articles of Confederation</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c1532'>Lossing's Field Book of Revolution</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3121'>The Siege of Savannah, 1779</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3129'>The Siege of Savannah - Lincoln Papers</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3208'>The Siege of Charleston - Lincoln Papers</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3309'>The Generals of the American Revolution</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3661'>Washington and His Military Family</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3715'>The Annapolis Convention</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3767'>The Federal Convention</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3843'>The First Federal Administration</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3956'>The Republican Court</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c3986'>Booth's History of New York</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4365'>Francis' Old New York</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4423'>Duer's Old Yorker</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4432'>Irving's Life of Washington</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4541'>Boundary Line Controversy</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4584'>Howe's Virginia</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4699'>Life of Edward Livingston</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4726'>Life of Marion</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4731'>General Leslie's Letterbook</a></div>\n</li><li><div class='series-title'><a href='/mss/927#c4956'>Miscellaneous Manuscripts</a></div>\n</li></ul>\n","type":"arrangement"}],"arrangement":[{"value":" <p>The Thomas Addis Emmet collection, 1483-1876, bulk (1700-1800) are organized into the following series:</p> <ul> <li>The Albany Congress of 1754</li> <li>The Stamp Act Congress of 1765</li> <li>The Continental Congress of 1774</li> <li>The Members of the Continental Congress, 1774-1779 <ul> <li>New Hampshire, Massachusetts, Rhode Island, Connecticut</li> <li>New York and New Jersey</li> <li>Pennsylvania and Delaware</li> <li>Maryland and Virginia</li> <li>The Carolinas and Georgia</li></ul></li> <li>The Presidents of Congress, and of the United States</li> <li>The Declaration of Independence</li> <li>The Signers to the Declaration of Independence <ul> <li>Introduction. Part I</li> <li>Introduction. Part II</li> <li>New Hampshire</li> <li>Masschusetts. Part I</li> <li>Masschusetts. Part II</li> <li>Rhode Island</li> <li>Connecticut</li> <li>New York</li> <li>New Jersey</li> <li>Pennsylvania. Part I</li> <li>Pennsylvania. Part II</li> <li>Pennsylvania. Part III</li> <li>Delaware</li> <li>Maryland</li> <li>Virginia. Part I</li> <li>Virginia. Part II</li> <li>North Carolina</li> <li>South Carolina and Georgia</li></ul></li> <li>The Articles of Confederation</li> <li>Lossing's Field Book of Revolution</li> <li>The Siege of Savannah, 1779</li> <li>The Siege of Savannah - Lincoln Papers</li> <li>The Siege of Charleston - Lincoln Papers</li> <li>The Generals of the American Revolution</li> <li>Washington and His Military Family</li> <li>The Annapolis Convention</li> <li>The Federal Convention</li> <li>The First Federal Administration</li> <li>The Republican Court</li> <li>Booth's History of New York</li> <li>Francis’s Old New York</li> <li>Duer's Old Yorker</li> <li>Irving's Life of Washington</li> <li>Boundary Line Controversy</li> <li>Howe's Virginia</li> <li>Life of Edward Livingston</li></ul> ","supress_display":true}],"acqinfo":[{"value":" <p>Donated by John S. Kennedy, 1896</p> "}],"separatedmaterial":[{"value":" <div class=\"note\"> <p>Most of the printed maps, printed documents, and graphic materials In the Emmet Collection have been transferred to other divisions of the Library: the Lionel Pincus and Princess Firyal Map Division; the Rare Book Division; and the Print Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs, respectively.</p></div> "}],"sponsor":[{"value":"Digitization was made possible by a lead gift from The Polonsky Foundation."}],"documents":[{"document_type":"other finding aid","description":"Original guide to the collection, first published by The New York Public Library in 1900.","title":"Calendar of the Emmet Collection","file":"emmetcalendar.pdf"}],"standard_access_note":"Advance notice required.","origination_term":[{"id":3006,"term":"Emmet, Thomas Addis, 1828-1919","type":"persname","source":"naf","function":"origination","role":"Collector","controlaccess":false,"questionable":false}],"controlaccess":{"subject":[{"id":3010,"term":"Charleston (S.C.) -- History -- Revolution, 1775-1783","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3004,"term":"Legislators--United States","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3011,"term":"New York (N.Y.) -- History","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3012,"term":"New York (State) -- History -- Colonial period, ca. 1600-1775","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3005,"term":"Presidents--United States","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3013,"term":"Savannah (Ga.) -- History","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3014,"term":"United States -- History -- Colonial period, ca. 1600-1775","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3015,"term":"United States -- History -- Revolution, 1775-1783","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3016,"term":"United States -- History -- Revolution, 1775-1783 -- Campaigns","type":"topic","source":"lcsh","controlaccess":true,"questionable":false},{"id":3017,"term":"United States -- Politics and government -- 1775-1783","type":"topic","source":"lcsh","controlaccess":true,"questionable":false}],"genreform":[{"id":3007,"term":"Maps","type":"genreform","source":"lcgft","controlaccess":true,"questionable":false},{"id":3008,"term":"Money","type":"genreform","controlaccess":true,"questionable":false},{"id":3009,"term":"Muster rolls","type":"genreform","source":"aat","controlaccess":true,"questionable":false}],"name":[{"id":212,"term":"Washington, George, 1732-1799","type":"persname","source":"naf","controlaccess":true,"questionable":false},{"id":3018,"term":"Albany Congress (1754 : Albany, N.Y.)","type":"corpname","source":"naf","controlaccess":true,"questionable":false},{"id":3019,"term":"Annapolis Convention (1786 : Annapolis, Md.)","type":"corpname","controlaccess":true,"questionable":false},{"id":3020,"term":"Stamp Act Congress (1765 : New York, N.Y.)","type":"corpname","source":"naf","controlaccess":true,"questionable":false}]},"total_children":28,"total_components":5253,"resources":[{"id":1,"document_type":"other finding aid","description":"Original guide to the collection, first published by The New York Public Library in 1900.","title":"Calendar of the Emmet Collection","file":"emmetcalendar.pdf","index_only":false,"url":"/uploads/documents/other_finding_aid/emmetcalendar.pdf","file_type":"pdf"}]};
+      var user_account = false;
+  </script> 
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1420324-109']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+</head>
+
+
+<body class='collections-show' data-spy="scroll" data-target=".sidenav">
+
+
+
+  <div id="wrap" typeof="schema:CreativeWork bibo:Collection dcmitype:Collection">
+  
+    <div class="navbar navbar-fixed-top">
+      
+      <script>
+// assumes jquery
+$(function() {
+	var menuOn = false;
+	var searchOn = false;
+
+	$(document).mouseup(
+		function (e) {
+			var container = $("#nypl-search-top");
+			var container2 = $("#nypl-navbar > li.search");
+
+			if (searchOn && container.has(e.target).length === 0 && container2.has(e.target).length === 0) {
+				searchOn = false;
+				container.removeClass("visible");
+			}
+
+			container = $("#nypl-header");
+
+			if (menuOn && container.has(e.target).length === 0) {
+				menuOn = false;
+				$("#nypl-navbar > li").removeClass("visible");
+			}
+		}
+	);
+
+	$("#nypl-search-toggle").click(
+		function() {
+			var c = $("#nypl-search-top");
+			if (searchOn) {
+				searchOn = false;
+				c.removeClass("visible");
+			} else {
+				searchOn = true;
+				c.addClass("visible");
+			}
+			return false;
+		}
+	);
+
+	$("#nypl-menu-toggle").click(
+		function() {
+			var c = $("#nypl-navbar > li");
+			if (menuOn) {
+				menuOn = false;
+				c.removeClass("visible");
+			} else {
+				menuOn = true;
+				c.addClass("visible");
+				// $("#nypl-search-top").show();
+			}
+			return false;
+		}
+	);
+
+	$("#nypl-search-button-catalog").click(
+		function() {
+			$("#nypl-search-q").val($("#search-block-form-input").val());
+			$("#nypl-search-block-form").attr("action", "http://nypl.bibliocommons.com/search");
+
+			_gaq.push(['_trackEvent', 'Outbound Links', 'NYPL footer link', 'NYPL search catalog'])
+
+			$("#nypl-search-block-form").submit();
+			return false;
+		}
+	);
+
+	$("#nypl-search-button-nypl").click(
+		function() {
+			$("#nypl-search-block-form").attr("action", "http://www.nypl.org/search/apachesolr_search/" + $("#search-block-form-input").val());
+			$("#nypl-search-block-form").attr("method", "post");
+
+			_gaq.push(['_trackEvent', 'Outbound Links', 'NYPL footer link', 'NYPL search site'])
+
+			$("#nypl-search-block-form").submit();
+			return false;
+		}
+	);
+
+	// delayed hover
+	var _id = 0;
+	var _time = 500; // ms
+	var _mouseOut = false;
+
+	$("#nypl-navbar > li").hover(
+		function (e) {
+
+			_mouseOut =false;
+			// mouseover
+			_id = window.setTimeout(
+				function () {
+					window.clearTimeout(_id);
+					if (_mouseOut){return false;}
+					$(e.currentTarget).find("div").first().addClass("show");
+					_mouseOut =false;
+				}
+				, _time
+			);
+		}
+		, function (e) {
+			// mouseout
+			$(e.currentTarget).find("div").first().removeClass("show");
+			if (_id != 0) {
+				clearTimeout(_id);
+			}
+			_mouseOut =true;
+		}
+	)
+
+	$(".navbar-inner, .container").mouseenter(function(e){
+		_mouseOut = true;
+		window.clearTimeout(_id);
+	});
+
+	$(".navbar, #nypl-navbar").mouseleave(function(){
+		_mouseOut = true;	
+		window.clearTimeout(_id);	
+	})
+
+
+
+});
+</script>
+
+<div id="nypl-header" class="no-print">
+	<ul id="nypl-navbar">
+		<li class="home"><a href="http://www.nypl.org" title="Go to the home page"><span>The New York Public Library</span></a></li>
+		<li><a href="http://nypl.bibliocommons.com/dashboard/user_dashboard"><span>My NYPL</span></a>
+			<div class="my-nypl">
+				<ul>
+					<li><h5>My Borrowing</h5>
+						<ul>
+							<li><a href="http://nypl.bibliocommons.com/checkedout" title="">Checked Out</a></li>
+							<li><a href="http://nypl.bibliocommons.com/holds/index/active" title="">Holds</a></li>
+							<li><a href="http://nypl.bibliocommons.com/fines" title="">Fines</a></li>
+							<li class="last"><a href="http://nypl.bibliocommons.com/accountmessages" title="">Library Messages</a></li>
+						</ul>
+					</li>
+					<li><h5>My Shelves</h5>
+						<ul>
+							<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/completed" title="">Completed</a></li>
+							<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/in_progress" title="">In progress</a></li>
+							<li><a href="http://nypl.bibliocommons.com/collection/show/my/library/for_later" title="">For later</a></li>
+							<li class="last"><a href="http://nypl.bibliocommons.com/lists/show/mine" title="">My Lists</a></li>
+						</ul>
+					</li>
+					<li><h5>My Community</h5>
+						<ul>
+							<li><a href="http://nypl.bibliocommons.com/trustedsources" title="">I'm Following</a></li>
+							<li><a href="http://nypl.bibliocommons.com/ignoredusers" title="">Ignored Users</a></li>
+							<li><a href="http://nypl.bibliocommons.com/recently_shared" title="">Recently Shared</a></li>
+							<li class="last"><a href="http://nypl.bibliocommons.com/messages" title="">Inbox</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://nypl.bibliocommons.com/dashboard"><span>Explore</span></a>
+			<div class="explore">
+				<ul>
+					<li><h5>New &amp; Notable</h5>
+						<ul>
+							<li><a href="http://nypl.bibliocommons.com/dashboard" title="">Recent Activity</a></li>
+							<li><a href="http://nypl.bibliocommons.com/explore/index/newly_acquired?f_on_order=false" title="">New Titles</a></li>
+							<li><a href="http://nypl.bibliocommons.com/explore/index/awards" title="">Award Winners</a></li>
+							<li><a href="http://nypl.bibliocommons.com/explore/index/best_sellers" title="">Bestsellers</a></li>
+							<li><a href="http://nypl-kids-2013.bibliocommons.com/" title="">Kids Summer Reading 2013</a></li>
+							<li><a href="http://nypl-teens-2013.bibliocommons.com/" title="">Teen Summer Reading 2013</a></li>
+							<li class="last"><a href="http://nypl-adults-2013.bibliocommons.com/" title="">Adult Summer Reading 2013</a></li>
+						</ul>
+					</li>
+					<li><h5>Collections</h5>
+						<ul>
+							<li><a href="http://nypl.bibliocommons.com/search?q=books&amp;t=smart&amp;search_category=keyword&amp;title=Books" title="">Books</a></li>
+							<li><a href="http://www.nypl.org/ebooks" title="">E-books &amp; Audiobooks</a></li>
+							<li><a href="http://nypl.bibliocommons.com/search?q=movies&amp;t=smart&amp;search_category=keyword&amp;title=Movies" title="">Movies</a></li>
+							<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=music&amp;commit=Search&amp;searchOpt=catalogue&amp;title=Music+and+R" title="">Music &amp; Recordings</a></li>
+							<li><a href="http://nypl.bibliocommons.com/search?t=smart&amp;search_category=keyword&amp;q=periodicals&amp;commit=Search&amp;searchOpt=catalogue" title="">Periodicals</a></li>
+							<li><a href="http://digitalgallery.nypl.org/" title="">Images</a></li>
+							<li class="last"><a href="http://www.nypl.org/collections/nypl-collections/braille-talking-books" title="">Braille &amp; Talking Books</a></li>
+						</ul>
+					</li>
+					<li><h5>Made at NYPL</h5>
+						<ul>
+							<li><a href="http://www.nypl.org/blog" title="">Blogs</a></li>
+							<li><a href="http://www.nypl.org/voices/audio-video" title="">Audio &amp; Video</a></li>
+							<li class="last"><a href="http://www.nypl.org/voices/print-publications" title="">Print Publications</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/collections"><span>Research</span></a>
+			<div class="research">
+				<ul>
+					<li><h5>Electronic Resources</h5>
+						<ul>
+							<li><a href="http://www.nypl.org/collections/articles-databases" title="">Articles and Databases</a></li>
+							<li><a href="http://www.nypl.org/events/online-exhibitions" title="">Online Exhibitions</a></li>
+							<li><a href="http://digitalgallery.nypl.org/" title="">Digital Gallery</a></li>
+							<li><a href="http://www.nypl.org/collections/labs" title="">NYPL Labs</a></li>
+							<li class="last"><a href="http://www.nypl.org/online_projects" title="Digital Projects">Digital Projects</a></li>
+						</ul>
+					</li>
+					<li><h5>Tools and Services</h5>
+						<ul>
+							<li><a href="http://catalog.nypl.org/" title="">Classic Catalog</a></li>
+							<li><a href="http://www.nypl.org/collections/nypl-recommendations/guides" title="">Research Guides</a></li>
+							<li><a href="http://www.nypl.org/specialindexes" title="">Indexes to NYPL Collections</a></li>
+							<li><a href="http://www.nypl.org/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+							<li class="last"><a href="http://www.nypl.org/collections/nypl-recommendations" title="">NYPL Recommendations</a></li>
+						</ul>
+					</li>
+					<li><h5>Collections</h5>
+						<ul>
+							<li><a href="http://www.nypl.org/research-collections" title="">Research Collections</a></li>
+							<li><a href="http://www.nypl.org/find-archival-materials" title="">Manuscripts and Archives</a></li>
+							<li><a href="http://wallachprintsandphotos.nypl.org/" title="">Prints &amp; Photos Online Catalog</a></li>
+							<li class="last"><a href="http://www.nypl.org/collections/nypl-collections/preservation-division" title="">Preservation of NYPL Collections</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/help"><span>Using the Library</span></a>
+			<div class="using-the-library">
+				<ul>
+					<li><h5>Get Oriented</h5>
+						<ul>
+							<li><a href="http://www.nypl.org/help/library-card" title="">Get a Library Card</a></li>
+							<li><a href="http://www.nypl.org/help/borrowing-materials" title="">Borrowing</a></li>
+							<li><a href="http://www.nypl.org/help/finding-things" title="">How To Find Things</a></li>
+							<li><a href="http://www.nypl.org/help/computers-internet-and-wireless-access" title="">Computers</a></li>
+							<li><a href="http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities" title="">Accessibility</a></li>
+							<li><a href="http://www.nypl.org/help/about-nypl" title="">About the NYPL</a></li>
+							<li class="last"><a href="http://www.nypl.org/voices/connect-nypl" title="">Connect with NYPL</a></li>
+						</ul>
+					</li>
+					<li><h5>Services</h5>
+						<ul>
+							<li><a href="http://nypl.org/ask-nypl" title="">AskNYPL</a></li>
+							<li><a href="http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer" title="">Reserve a PC</a></li>
+							<li><a href="http://www.nypl.org/help/community-outreach" title="">Community Outreach</a></li>
+							<li><a href="http://www.nypl.org/ask-nypl/research-questions-reproductions" title="">Get Copies</a></li>
+							<li><a href="http://www.nypl.org/help/research-services/interlibrary-loan" title="Interlibrary Loan">Interlibrary Loan</a></li>
+							<li><a href="http://www.nypl.org/spacerental" title="">Space Rental</a></li>
+							<li class="last"><a href="http://shop.nypl.org/" title="">The Library Shop</a></li>
+						</ul>
+					</li>
+					<li><h5>I am a...</h5>
+						<ul>
+							<li><a href="http://www.nypl.org/events/teaching-learning" title="">Teacher</a></li>
+							<li><a href="http://www.nypl.org/help/getting-oriented/for-job-seekers" title="">Job Seeker</a></li>
+							<li><a href="http://smallbiz.nypl.org/" title="">Small Business Owner</a></li>
+							<li><a href="http://www.nypl.org/help/getting-oriented/resources-kids" title="">Child</a></li>
+							<li><a href="http://www.nypl.org/help/getting-oriented/resources-teens" title="">Teen</a></li>
+							<li><a href="http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities" title="">Person with a Disability</a></li>
+							<li><a href="http://www.nypl.org/help/community-outreach/immigrant-services" title="">Recent Immigrant</a></li>
+							<li class="last"><a href="http://nypl.org/support" title="">NYPL Donor</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/locations"><span>Locations</span></a>
+			<div>
+				<ul class="simple">
+					<li><a href="http://www.nypl.org/locations#manhattan-list" title="">Manhattan</a></li>
+          <li><a href="http://www.nypl.org/locations#bronx-list" title="">The Bronx</a></li>
+          <li><a href="http://www.nypl.org/locations#statenisland-list" title="">Staten Island</a></li>
+          <li><a href="http://www.nypl.org/locations/schwarzman" title="">Schwarzman Building</a></li>
+          <li><a href="http://www.nypl.org/locations/lpa" title="">Library for the Performing Arts</a></li>
+          <li><a href="http://www.nypl.org/locations/schomburg" title="">Schomburg Center</a></li>
+          <li class="last"><a href="http://www.nypl.org/locations/sibl" title="">Science, Industry and Business Library</a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/events"><span>Classes &amp; Events</span></a>
+			<div>
+				<ul class="simple">
+					<li><a href="http://www.nypl.org/events/exhibitions" title="">Current Exhibitions</a></li>
+					<li><a href="http://www.nypl.org/events/public-programs" title="">Programs</a></li>
+					<li><a href="http://www.nypl.org/events/classes" title="">Classes</a></li>
+					<li><a href="http://www.nypl.org/events/classes/adult-learning-centers" title="">Learn English</a></li>
+					<li><a href="http://www.nypl.org/events/tours" title="">Tours</a></li>
+					<li><a href="http://www.nypl.org/events/exhibitions-past" title="">Past Exhibitions</a></li>
+					<li class="last"><a href="http://www.nypl.org/events/live-nypl" title="">LIVE from the NYPL</a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/support"><span>Support the Library</span></a>
+			<div class="support-the-library">
+				<ul class="simple">
+					<li><a href="http://nypl.org/donate" title="">Donate</a></li>
+					<li><a href="http://www.nypl.org/support/membership" title="">Membership</a></li>
+					<li><a href="http://www.nypl.org/help/about-nypl/volunteer-nypl" title="">Volunteer</a></li>
+					<li><a href="http://www.nypl.org/honorandmemorial" title="Honor and Memorial Gifts">Honor and Memorial Gifts</a></li>
+					<li><a href="http://www.nypl.org/support/benefit-events" title="">Benefit Events</a></li>
+					<li><a href="http://www.nypl.org/support/planned-giving" title="">Planned Giving</a></li>
+					<li><a href="http://shop.nypl.org/" title="">Shop</a></li>
+					<li class="last"><a href="http://www.nypl.org/support/donate" title="">More Ways to Give</a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.nypl.org/ask-nypl"><span>Help</span></a></li>
+		
+		<!-- search -->
+		<li class="search">
+			<a href="#" id="nypl-search-toggle" title="search NYPL.org"><span>Search</span></a>
+		</li>
+		<!-- /search -->
+	</ul>
+	<div id="nypl-search-top">
+		<form action="http://www.nypl.org/" accept-charset="UTF-8" method="get" id="nypl-search-block-form">
+			<input id="nypl-search-q" name="q" type="hidden" value="">
+			<input id="nypl-search-t" name="t" type="hidden" value="smart">
+			<input id="nypl-search-searchOpt" name="searchOpt" type="hidden" value="catalogue">
+			<input class="form-text" maxlength="128" id="search-block-form-input" name="search_block_form" type="text" placeholder="Find books, music, movies, and more">
+			<input alt="search catalog" id="nypl-search-button-catalog" class="catalog_button" name="commit" title="search catalog" type="button" value="Catalog">
+			<input alt="search NYPL.org" id="nypl-search-button-nypl" class="nypl_button" name="commit" title="search NYPL.org" type="button" value="NYPL.org">
+		</form>
+	</div>
+	<a href="#" id="nypl-menu-toggle">M</a>
+</div>
+      
+      <div class="navbar-inner">
+        <div class="container nav-top">
+          
+          <div class="site-name"><a href="/"><span class="sub">New York Public Library</span> <span>Archives &amp; Manuscripts<span></a></div>
+          
+          <ul class="nav no-print">
+            <li><a href="/about">About</a></li>
+
+              <li class="feedback"><a href="/contacts/compose?collection_id=1&amp;layout=true&amp;org_unit_id=1" class="contact-popup">Contact the division</a></li>
+            
+
+
+
+
+
+          </ul>
+          
+            <form accept-charset="UTF-8" action="/search/results" class="search navbar-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <div class="controls search-input no-print">
+    <input id="q" name="q" placeholder="Search names, titles, keywords..." type="text" value="" />
+    <button type="search" class="button"></button>
+    
+    </div>
+    
+</form>
+
+          
+        </div>
+      </div>
+  
+      <div class="container collection-head">
+        
+        
+        
+        <div class="row">
+          
+          
+          <div class="span9 offset3 content-col">
+            <h1>
+  <div property="schema:name" class="collection-head-title">
+    Thomas Addis Emmet collection
+  </div>
+
+    <span class="subtitle" property="schema:dateCreated">1483-1876 [bulk 1700-1800]</span>
+
+
+      <a class="glyph-overview-title glyph-overview-title-digital" href="#" title="The entirety of this collection is digitized and available online.">D</a>
+</h1>
+
+<div class="collection-view-select no-print">
+  <a href="#overview" class="btn primary disabled">Overview</a>
+  
+    <a href="#detailed" class="btn">Detailed description</a>  
+    <a href="/mss/927/pdf" rel="nofollow" class="btn pdf-button">Printable (PDF) version</a>
+  
+  
+  <a href="/contacts/compose?collection_id=1&amp;layout=true&amp;org_unit_id=1" class="btn contact-popup">Contact the division</a>
+
+
+
+  <div class="btn-group tools-dropdown-group hidden-phone" title="Experimental Tools">
+    <a class="btn dropdown-toggle tools-dropdown" data-toggle="dropdown" href="#">
+      :
+      <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <!-- dropdown menu links -->
+      <li><a href="#" id="tools-dropdown-minimap">Toggle Mini Map</a></li>
+      <li><a href="#" id="tools-dropdown-network">View as Network</a></li>
+    </ul>
+  </div>
+
+
+</div>
+
+<div id="nav-title-holder" class='visible-desktop'>
+  <div id="fixed-nav-title"></div>
+  <div id="fixed-nav-title-tooltip" class="title-tooltip"><i class="icon-info-sign"></i></div>
+  <div id="fixed-nav-subtitle" class="fixed-nav-subtitle-2"></div>
+  <div id="fixed-nav-subtitle-tooltip" class="title-tooltip"><i class="icon-info-sign"></i></div>
+</div>
+          </div>
+        </div>
+        
+      </div>
+    
+    </div>
+
+
+    <div class="container content main-content collections-show">  
+      <div id="viz-nav-control" class="hidden-phone hidden-tablet visible-desktop"><i class="icon-chevron-left"></i><i class="icon-chevron-left"></i></div>
+
+<div class="hidden-phone hidden-tablet visible-desktop" id="viz-nav-loading-placeholder">
+  <div>Loading...</div>
+</div>
+
+<div class="row collection-info" id="collection-overview">
+
+  <div class="span3 sidebar">
+    
+    <ul class="nav nav-tabs nav-stacked sidenav collection-info-sidenav affix" id="navTab">
+        <li class="active">
+          <a href="#descriptive_identity" data-toggle="scrollto">Collection Overview</a>
+        </li>
+        <li class="">
+          <a href="#content_structure" data-toggle="scrollto">Scope and arrangement</a>
+        </li>
+        <li class="">
+          <a href="#acquisition_processing" data-toggle="scrollto">Administrative information</a>
+        </li>
+        <li class="">
+          <a href="#controlaccess" data-toggle="scrollto">Key terms</a>
+        </li>
+        <li class="">
+          <a href="#access_use" data-toggle="scrollto">Using the collection</a>
+        </li>
+
+
+
+
+
+      <a class="glyph-overview-title-digital" href="#detailed">
+        <div class="row-fluid indicator-holder">
+          <div class="span3 sidebar-indicator-icon">
+            D
+          </div>
+          <div class="span9">
+
+              The entirety of<br>this collection is digitized.
+          </div>
+        </div>
+      </a>
+
+
+
+
+        <li>
+            <div class="additional-resources">
+              <span>Additional Resources:</span>
+              <div class='element'>
+<h2>Additional resources</h2>
+<ul>
+<li><a href="/uploads/documents/other_finding_aid/emmetcalendar.pdf">Calendar of the Emmet Collection</a> (PDF)<br/>Original guide to the collection, first published by The New York Public Library in 1900.</li>
+</ul>
+</div>
+
+          </div>
+        </li>
+
+
+
+
+
+
+
+
+    </ul>
+
+
+
+    
+  </div>
+  
+  
+  <div class="span9 collection-info-content content-col">
+    
+    <div id="navTabContent" class="tab-content">
+        <div class="scrollto-section active" id="descriptive_identity">
+          <div class='description-section description-section-descriptive_identity'><div class='collection-summary'><dl class='dl-horizontal'>
+<dt>Creator</dt>
+<dd property='schema:creator dcterms:creator'><a href="/controlaccess/3006?term=Emmet%2C+Thomas+Addis%2C+1828-1919">Emmet, Thomas Addis, 1828-1919</a></dd>
+<dt>Call number</dt>
+<dd>MssCol 927</dd>
+<dt>Physical description</dt>
+<dd property='dcterms:extent'>30.83 linear feet; 108 boxes, 21 volumes</dd>
+<dt>Preferred Citation</dt>
+<dd property='dcterms:provenance'> <p>Thomas Addis Emmet collection, Manuscripts and Archives Division, The New York Public Library</p> </dd>
+<dt>Repository</dt>
+<dd property='arch:heldBy'>Manuscripts and Archives Division</dd>
+<dt>Access to materials</dt>
+<dd>Advance notice required. <a href="/contacts/compose?collection_id=1&amp;layout=true&amp;mode=request&amp;org_unit_id=1" class="contact-popup">Request access to this collection.</a></dd>
+<dt></dt><dd class='digitized-material-note'>The entirety of this collection has been digitized and is available online.</dd></dl>
+</div><p class='abstract' property='schema:description dcterms:abstract'>The portion of the Emmet Collection housed in the Manuscripts and Archives Division consists of approximately 10,800 historical manuscripts relating chiefly to the period prior to, during, and following the American Revolution. The collection contains letters and documents by the signers of the Declaration of Independence as well as nearly every prominent historical figure of the period.</p><p class='sponsor-note'>Digitization was made possible by a lead gift from The Polonsky Foundation.</p></div>
+        </div>
+        <div class="scrollto-section" id="content_structure">
+          <div class='description-section description-section-content-structure'>
+<h2>Scope and arrangement</h2>
+<div class='element scopecontent' id='scopecontent'> <p>The portion of the Emmet Collection housed in the Manuscripts and Archives Division consists of approximately 10,800 historical manuscripts relating chiefly to the period prior to, during, and following the American Revolution. The collection contains letters and documents by the signers of the Declaration of Independence as well as nearly every prominent historical figure of the period. The manuscripts are arranged in 28 topics, most of them milestones in early American history. Topics include the Albany Congress of 1754, the Stamp Act Congress of 1765, the Continental Congresses, 1774 -1789, the Declaration of Independence, the Articles of Confederation, the Annapolis Convention, the Federal Convention, and the First Federal Administration. The Revolutionary War is well documented in the correspondence and letterbooks of generals and other officers, as well as in orderly books, muster rolls, and returns. Additional material documents the history of New York City. Highlights of the Emmet Collection include Thomas Jefferson's manuscript copy of the Declaration of Independence, an engrossed copy of the Bill of Rights, and manuscript minutes of the Annapolis Convention.</p> 
+<p class='list-head'>The Thomas Addis Emmet collection is arranged in twenty-eight series:</p>
+<ul class='arrangement series-descriptions'>
+<li><div class='series-title'><a href='/mss/927#c1'>The Albany Congress of 1754</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c58'>The Stamp Act Congress of 1765</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c121'>The Continental Congress of 1774</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c201'>The Members of the Continental Congress, 1774-1779</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c653'>The Presidents of Congress, and of the United States</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c705'>The Declaration of Independence</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c788'>The Signers to the Declaration of Independence</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c1479'>The Articles of Confederation</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c1532'>Lossing's Field Book of Revolution</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3121'>The Siege of Savannah, 1779</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3129'>The Siege of Savannah - Lincoln Papers</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3208'>The Siege of Charleston - Lincoln Papers</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3309'>The Generals of the American Revolution</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3661'>Washington and His Military Family</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3715'>The Annapolis Convention</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3767'>The Federal Convention</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3843'>The First Federal Administration</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3956'>The Republican Court</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c3986'>Booth's History of New York</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4365'>Francis' Old New York</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4423'>Duer's Old Yorker</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4432'>Irving's Life of Washington</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4541'>Boundary Line Controversy</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4584'>Howe's Virginia</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4699'>Life of Edward Livingston</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4726'>Life of Marion</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4731'>General Leslie's Letterbook</a></div>
+</li><li><div class='series-title'><a href='/mss/927#c4956'>Miscellaneous Manuscripts</a></div>
+</li></ul>
+</div></div>
+        </div>
+        <div class="scrollto-section" id="acquisition_processing">
+          <div class='description-section description-section-acquisition-processing'>
+<h2>Administrative information</h2>
+<div class='element custodhist' id='custodhist'><h3>Custodial history</h3> <p>The Emmet Collection was assembled over a period of fifty years by Dr. Thomas Addis Emmet, a renowned surgeon and one of the early collectors of American manuscripts of the revolutionary era. His collection of 94 volumes of manuscripts and extra-illustrated books was purchased by John S. Kennedy and presented to The New York Public Library in 1896.</p> </div>
+<div class='element acqinfo' id='acqinfo'><h3>Source of acquisition</h3> <p>Donated by John S. Kennedy, 1896</p> </div>
+<div class='element separatedmaterial' id='separatedmaterial'><h3>Separated material</h3> <div class="note"> <p>Most of the printed maps, printed documents, and graphic materials In the Emmet Collection have been transferred to other divisions of the Library: the Lionel Pincus and Princess Firyal Map Division; the Rare Book Division; and the Print Collection of the Miriam and Ira D. Wallach Division of Art, Prints and Photographs, respectively.</p></div> </div></div>
+        </div>
+        <div class="scrollto-section" id="controlaccess">
+          <div class='description-section description-section-controlaccess'><div class='element'>
+<h2>Key terms</h2>
+<h3>Names</h3>
+<ul>
+<li><a href="/controlaccess/212?term=Washington, George, 1732-1799">Washington, George, 1732-1799</a><li><a href="/controlaccess/3018?term=Albany Congress (1754 : Albany, N.Y.)">Albany Congress (1754 : Albany, N.Y.)</a><li><a href="/controlaccess/3019?term=Annapolis Convention (1786 : Annapolis, Md.)">Annapolis Convention (1786 : Annapolis, Md.)</a><li><a href="/controlaccess/3020?term=Stamp Act Congress (1765 : New York, N.Y.)">Stamp Act Congress (1765 : New York, N.Y.)</a></ul>
+<h3>Subjects</h3>
+<ul>
+<li><a href="/controlaccess/3010?term=Charleston (S.C.) -- History -- Revolution, 1775-1783">Charleston (S.C.) -- History -- Revolution, 1775-1783</a><li><a href="/controlaccess/3004?term=Legislators--United States">Legislators--United States</a><li><a href="/controlaccess/3011?term=New York (N.Y.) -- History">New York (N.Y.) -- History</a><li><a href="/controlaccess/3012?term=New York (State) -- History -- Colonial period, ca. 1600-1775">New York (State) -- History -- Colonial period, ca. 1600-1775</a><li><a href="/controlaccess/3005?term=Presidents--United States">Presidents--United States</a><li><a href="/controlaccess/3013?term=Savannah (Ga.) -- History">Savannah (Ga.) -- History</a><li><a href="/controlaccess/3014?term=United States -- History -- Colonial period, ca. 1600-1775">United States -- History -- Colonial period, ca. 1600-1775</a><li><a href="/controlaccess/3015?term=United States -- History -- Revolution, 1775-1783">United States -- History -- Revolution, 1775-1783</a><li><a href="/controlaccess/3016?term=United States -- History -- Revolution, 1775-1783 -- Campaigns">United States -- History -- Revolution, 1775-1783 -- Campaigns</a><li><a href="/controlaccess/3017?term=United States -- Politics and government -- 1775-1783">United States -- Politics and government -- 1775-1783</a></ul>
+<h3>Material types</h3>
+<ul>
+<li><a href="/controlaccess/3007?term=Maps">Maps</a><li><a href="/controlaccess/3008?term=Money">Money</a><li><a href="/controlaccess/3009?term=Muster rolls">Muster rolls</a></ul>
+</div>
+</div>
+        </div>
+        <div class="scrollto-section" id="access_use">
+          <div class='description-section description-section-access-use'>
+<h2>Using the collection</h2>
+<div class='element physical_location' id='physical_location'><h3>Location</h3>Manuscripts and Archives Division<br/>Stephen A. Schwarzman Building<br/>Fifth Avenue at 42nd Street, New York, NY 10018-2788<br/>Brooke Russell Astor Reading Room, Third Floor, Room 328</div>
+<div class='element standard_access_note' id='standard_access_note'><h3>Access to materials</h3>Advance notice required. <a href="/contacts/compose?collection_id=1&amp;layout=true&amp;mode=request&amp;org_unit_id=1" class="contact-popup">Request access to this collection.</a></div></div>
+        </div>
+        <div class="scrollto-section" id="resources">
+          <div class='element'>
+<h2>Additional resources</h2>
+<ul>
+<li><a href="/uploads/documents/other_finding_aid/emmetcalendar.pdf">Calendar of the Emmet Collection</a> (PDF)<br/>Original guide to the collection, first published by The New York Public Library in 1900.</li>
+</ul>
+</div>
+
+        </div>
+    </div> 
+      
+
+
+  
+
+
+
+  </div>  
+  
+
+</div>
+
+<div id="collection-content-viz">
+
+  <span class="status"></span>
+  <button class="btn">Close</button>
+
+</div>
+
+<div class="row collection-info" id="collection-detailed">
+
+
+
+  <div class="span3 sidebar collection-info-sidenav">
+
+    <div id="nav-detailed-container">
+
+      <div id="nav-detailed-list">
+        <ul class="nav nav-tabs nav-stacked sidenav collection-info-sidenav"></ul>
+      </div>     
+      
+      
+      <div id="nav-filter">  
+
+        <div class="input-append">
+          <form action="#" id="nav-filter-form">
+          <input placeholder="Filter by keyword or year" type="text">
+          <button class="btn primary" type="submit"><i class="icon-refresh"></i></button>            
+          </form>
+        </div>
+        <div id="nav-filter-clear"><a href="#" class="btn">Clear Filter (ESC Key)</a></div>
+        <div id="nav-filter-no-results">No Results</div>
+      </div>
+
+    </div>
+
+  </div>
+  
+  <div class="span9 collection-info-content content-col" id="collection-content-detailed">
+ 
+  </div>  
+  <div class="span9 collection-info-content content-col" id="collection-content-searchresults">
+
+  </div>
+
+
+<div id="status-pie"></div>
+<div class="footer-spacer"></div>
+
+
+
+<div id="lightbox" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+  <div class='lightbox-content' id = "lightbox-content">
+    
+  </div>
+</div>
+    </div>
+  
+
+  </div>
+  
+  <div id="footer">
+    <span title="Copyright" class="copyright">&copy; <a href="http://www.nypl.org/">The New York Public Library</a>, 2014</span>
+    &nbsp;&nbsp;&#8212;&nbsp;&nbsp; 
+    <a href="http://labs.nypl.org">Built by NYPL Labs</a>
+    <ul>
+			<li><a href="http://www.nypl.org/help/about-nypl/legal-notices/privacy-policy">Privacy Policy</a></li>
+			<li><a href="http://www.nypl.org/help/about-nypl/legal-notices/rules-and-regulations">Rules and Regulations</a></li>
+			<li><a href="http://www.nypl.org/help/computers-internet-and-wireless-access/a-safety-net-for-the-internet">Using the Internet</a></li>
+			<li><a href="http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions">Website Terms and Conditions</a></li>
+			<li><a href="http://www.nypl.org/help/about-nypl/legal-notices/policy-gifts-materials">Gifts of Materials to NYPL</a></li>
+		</ul>
+</div>
+  
+  
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

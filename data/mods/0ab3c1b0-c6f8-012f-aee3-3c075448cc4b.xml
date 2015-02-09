@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods version="3.4" schemaLocation="http://uri.nypl.org/schema/nypl_mods http://uri.nypl.org/schema/nypl_mods">
+<titleInfo ID="titleInfo_0" usage="primary" supplied="no" lang="eng"><title>Isadora Duncan</title></titleInfo><identifier ID="identifier_0" type="local_hades" displayLabel="Hades struc ID (legacy)">674061</identifier><location ID="location_0"><physicalLocation authority="marcorg" type="repository">nn</physicalLocation><physicalLocation type="division">Jerome Robbins Dance Division</physicalLocation></location><identifier ID="identifier_1" type="local_hades_collection" displayLabel="Hades Collection Guide ID (legacy)">216</identifier></mods>

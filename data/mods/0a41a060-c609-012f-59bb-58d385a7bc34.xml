@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://uri.nypl.org/schema/nypl_mods" version="3.4" xsi:schemaLocation="http://uri.nypl.org/schema/nypl_mods http://uri.nypl.org/schema/nypl_mods">
+<titleInfo ID="titleInfo_0" usage="primary" supplied="no" lang="eng"><title>Egbert Collection</title></titleInfo><originInfo ID="originInfo_0"><dateCreated encoding="w3cdtf" qualifier="approximate" keyDate="yes">1825</dateCreated></originInfo><identifier ID="identifier_0" type="local_hades" displayLabel="Hades struc ID (legacy)">1803933</identifier><location ID="location_0"><physicalLocation type="division">External, not NYPL</physicalLocation></location></mods>
